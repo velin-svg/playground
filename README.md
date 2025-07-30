@@ -33,7 +33,7 @@ This is a creative project and is accepting any contributions made it. Feel free
 
 ## License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is released under the GNU General Public License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
